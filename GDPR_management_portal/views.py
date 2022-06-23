@@ -70,7 +70,7 @@ def overview(request):
 
 def non_complaint_file_name(request):
     non_complaint_file_name=[]
-    for path in pathlib.Path(r'D:\Infoware\DBI\Output').iterdir():
+    for path in pathlib.Path(r'Output').iterdir():
         
         df = pd.read_csv(path)
         if df['Non Compliance Elemets'][0] >= 0 :
@@ -82,7 +82,7 @@ def non_complaint_file_name(request):
     return render(request, 'non_comp_name.html',params)
 def complaint_file_name(request):
     complaint_file_name=[]
-    for path in pathlib.Path(r'D:\Infoware\DBI\Output').iterdir():
+    for path in pathlib.Path(r'Output').iterdir():
         
         df = pd.read_csv(path)
         if df['Non Compliance Elemets'][0] == 0 :
