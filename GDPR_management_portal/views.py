@@ -1,7 +1,7 @@
 from django.shortcuts import render
 from django.http import HttpResponse
 import csv
-import pandas
+import pandas as pd
 import re
 import pathlib
 import csv
@@ -68,3 +68,15 @@ def poc_result(request):
 def overview(request):
     return render(request,'overview.html')
 
+def non_complaint_file_name(request):
+    non_complaint_file_name=[]
+    for path in pathlib.Path(r'D:\Infoware\DBI\Output').iterdir():
+        
+        df = pd.read_csv(path)
+        if df['Non Compliance Elemets'][0] >= 0 :
+            non_complaint_file_name.append(path.name)
+
+    for i in non_complaint_file_name:
+        print(i)
+    params={"NonComp":non_complaint_file_name}
+    return render(request, 'non_comp_name.html',params)

@@ -7,5 +7,6 @@ urlpatterns = [
     path('',views.login,name="login"),
     path('auth',views.auth,name="auth"),
     path('pocresult',views.poc_result,name="poc_result"),
-    path('overview',views.overview,name="overview")
+    path('overview',views.overview,name="overview"),
+    path('non_comp_view',views.non_complaint_file_name,name="non_comp_view")
     ]
