@@ -83,9 +83,9 @@ def main_pipeline(input_dir,output_dir):
                 temp1=temp+"\ "
                 fname=temp1[0:-1]+fname
                 if(count > 0):
-                    num_comp=num_comp+1
+                    num_non_comp=num_comp+1
                 else:
-                    num_non_comp=num_non_comp+1
+                    num_comp=num_non_comp+1
 
                 (pd.DataFrame.from_dict(data=data, orient='index').to_csv(fname, header=False))
                 pd.read_csv(fname, header=None).T.to_csv(fname, header=False, index=False)

@@ -3,6 +3,9 @@ from django.http import HttpResponse
 import csv
 import pandas
 import re
+import pathlib
+import csv
+
 # import main as pipe
 # Create your views here.
 def login(request):
@@ -22,8 +25,6 @@ def auth(request):
 
 
 def poc_result(request):
-    param=[]
-    
     file = pandas.read_csv(r'Output/Head of In-House Development and QA, Connected Car - Candidate Brief (1).csv')
     #pandas.set_option('')
     html_string='''
@@ -63,5 +64,7 @@ def poc_result(request):
             param.append(row) """
         
     return render(request,'result.html')
+
 def overview(request):
     return render(request,'overview.html')
+
