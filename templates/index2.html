@@ -65,7 +65,16 @@ GDPR Management Portal
       
 </div>
 <div class="row row-cols-1 row-cols-md-4 g-4 mx-2 my-2 text-center">
-    
+    <div class="col my-1 ">
+      <div class="card h-100">
+        <div class="card-header p-3 mb-2 bg-primary text-white " >
+            No Top Level Data Sources
+        </div>
+        <div class="card-body" >
+          <h2><span class="align-middle">102</span></h2>
+        </div>
+      </div>
+    </div>
     <div class="col my-1">
       <div class="card h-100">
         <div class="card-header p-3 mb-2 bg-primary text-white ">
@@ -77,8 +86,27 @@ GDPR Management Portal
         </div>
       </div>
     </div>
-    
-    
+    <div class="col my-1">
+      <div class="card h-100">
+        <div class="card-header p-3 mb-2 bg-primary text-white ">
+            No of PII at High Risk
+        </div>
+        <div class="card-body">
+            <h2><span class="align-middle">76</span></h2>
+            <h6>83.52%</h6>
+        </div>
+      </div>
+    </div>
+    <div class="col my-1">
+      <div class="card h-100">
+        <div class="card-header p-3 mb-2 bg-primary text-white ">
+            Breakdown of Data Types
+        </div>
+        <div class="card-body">
+            <div id="piechart"></div>
+        </div>
+      </div>
+    </div>
     <div class="col my-1">
         <div class="card h-100">
             <div class="card-header p-3 mb-2 bg-primary text-white ">
@@ -100,6 +128,27 @@ GDPR Management Portal
           </div>
       </div>
     </div>
-    
+    <div class="col my-1">
+        <div class="card h-100 w-70">
+          <div class="card-header p-3 mb-2 bg-primary text-white ">
+              No Non Compliant
+          </div>
+          <div class="card-body">
+            <h2><span class="align-middle">33</span></h2>
+          <h6>32.35%</h6>
+        </div>
+        </div>
+      </div>
+      <div class="col my-1">
+        <div class="card h-100">
+          <div class="card-header p-3 mb-2 bg-primary text-white ">
+              High Risk Compliant
+          </div>
+          <div class="card-body">
+            <div id="piechart3"></div>
+            
+          </div>
+        </div>
+      </div>
   </div>
 {% endblock body %}
