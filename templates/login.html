@@ -1,0 +1,35 @@
+{% extends 'base.html' %}
+{% block title %}
+Login Page
+{% endblock title %}
+
+{% block body %}
+
+    <div class="mx-auto" style="width: 500px" ;>
+        <form action="auth" method="post" class="form-horizontal">
+            {% csrf_token%}
+            <div class="col-xs-8 col-xs-offset-4">
+                <h2 style="text-align:center;">LOGIN</h2>
+            </div>
+
+            <div class="form-floating mb-3">
+                <label for="floatingInput">Username</label>
+                <input type="text" class="form-control" id="floatingInput" name="username" placeholder="Username">
+                
+              </div>
+              <div class="form-floating">
+                <label for="floatingPassword">Password</label>
+                <input type="password" class="form-control" id="floatingPassword" name="password" placeholder="Password">
+                
+            </div>
+            <center><button type="submit" class="btn btn-primary my-4">LOGIN</button></center>
+            <br />
+            <div class="form-group">
+                {% for message in messages %}
+                <div class="alert alert-danger" role="alert">
+                    {{message}}
+                </div>
+                {% endfor %}
+            </div>
+        </form>
+{%endblock body%}
