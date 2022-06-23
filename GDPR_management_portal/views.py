@@ -80,3 +80,16 @@ def non_complaint_file_name(request):
         print(i)
     params={"NonComp":non_complaint_file_name}
     return render(request, 'non_comp_name.html',params)
+def complaint_file_name(request):
+    complaint_file_name=[]
+    for path in pathlib.Path(r'D:\Infoware\DBI\Output').iterdir():
+        
+        df = pd.read_csv(path)
+        if df['Non Compliance Elemets'][0] == 0 :
+            complaint_file_name.append(path.name)
+
+    for i in complaint_file_name:
+        print(i)
+    params={"Comp":complaint_file_name}
+    return render(request, 'complaint_files.html',params)
+    
