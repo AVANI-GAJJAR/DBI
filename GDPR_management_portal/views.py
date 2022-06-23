@@ -1,3 +1,4 @@
+from turtle import ht
 from django.shortcuts import render
 from django.http import HttpResponse
 import csv
@@ -6,7 +7,7 @@ import re
 import pathlib
 import csv
 
-# import main as pipe
+import main as pipe
 # Create your views here.
 def login(request):
     return render(request,'login.html')
@@ -15,8 +16,7 @@ def auth(request):
         nm=request.POST.get('username')
         pwd=request.POST.get('password')
         if nm=="ddx1" and pwd=="Demo":
-            nc=3
-            nonc=0
+            nc,nonc=pipe.main_pipeline(r'D:\Infoware\DBI\TEST',r'D:\Infoware\DBI\Output')
             #nc - > number of complinet
             #nonc - > number of non complinet
             params={'Nos':nc,'NosNonComliant':nonc}
@@ -25,7 +25,7 @@ def auth(request):
 
 
 def poc_result(request):
-    file = pandas.read_csv(r'Output/Head of In-House Development and QA, Connected Car - Candidate Brief (1).csv')
+    file = pd.read_csv(r'Output/Head of In-House Development and QA, Connected Car - Candidate Brief (1).csv')
     #pandas.set_option('')
     html_string='''
     <html>
@@ -70,26 +70,70 @@ def overview(request):
 
 def non_complaint_file_name(request):
     non_complaint_file_name=[]
+    html_fl=[]
     for path in pathlib.Path(r'Output').iterdir():
         
         df = pd.read_csv(path)
-        if df['Non Compliance Elemets'][0] >= 0 :
+        if df['Non Compliance Elemets'][0] > 0 :
             non_complaint_file_name.append(path.name)
+            q=r'D:\Infoware\DBI\templates\\'
+            q=q[:-1]
+            file = pd.read_csv(path)
+            temp=path.name
+            s=''
+            for i in temp:
+                if(i == ' '):
+                    s=s+'_'
+                else:
+                    s=s+i
 
-    for i in non_complaint_file_name:
-        print(i)
-    params={"NonComp":non_complaint_file_name}
+            s=s[:-4]+'.html'
+            c=q+s
+            file.to_html(c) 
+            print(c)
+            html_fl.append(c)
+
+    mylist=zip(non_complaint_file_name,html_fl)
+
+    params={"Comp":mylist}
+
     return render(request, 'non_comp_name.html',params)
+
 def complaint_file_name(request):
     complaint_file_name=[]
+    html_fl=[]
     for path in pathlib.Path(r'Output').iterdir():
         
         df = pd.read_csv(path)
         if df['Non Compliance Elemets'][0] == 0 :
             complaint_file_name.append(path.name)
+            q=r'D:\Infoware\DBI\templates\\'
+            q=q[:-1]
+            file = pd.read_csv(path)
+            temp=path.name
+            s=''
+            for i in temp:
+                if(i == ' '):
+                    s=s+'_'
+                else:
+                    s=s+i
 
-    for i in complaint_file_name:
-        print(i)
-    params={"Comp":complaint_file_name}
+            s=s[:-4]+'.html'
+            c=q+s
+            file.to_html(c) 
+            html_fl.append(c)
+
+
+
+
+    mylist=zip(complaint_file_name,html_fl)
+    params={"Comp":mylist}
     return render(request, 'complaint_files.html',params)
+    
+def view_table(request):
+    liink=request.POST.get('wor','Not Got')
+
+    return render(request,liink)
+
+    
     

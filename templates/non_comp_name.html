@@ -13,10 +13,18 @@ Welcome
   </tr>
   <tr>
     
-    {% for teamname in NonComp %}
+    {% for teamname ,ji in Comp %}
     <tr>
         <td>{{ teamname }}</td>
-        <td><button type="button" class="btn btn-success"><a href="ncf/{{ teamname }}" style="color:white">Download Report</a></button></td>
+        <td>
+        <form action="view_table" method="post">{% csrf_token %} 
+          <button type="submit" name="wor" value = {{ji}} class="btn btn-success" style="color:white">Download Report</button>
+         
+          <!-- <button type="submit" name="wor" value={{ji}}>Report</button> -->
+
+          
+        </form>
+        </td>
     </tr>
       {% endfor %}
 </table>

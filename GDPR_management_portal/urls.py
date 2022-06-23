@@ -11,6 +11,8 @@ urlpatterns = [
     path('pocresult',views.poc_result,name="poc_result"),
     path('overview',views.overview,name="overview"),
     path('non_comp_view',views.non_complaint_file_name,name="non_comp_view"),
-    path('comp_view',views.complaint_file_name,name="comp_view")
+    path('comp_view',views.complaint_file_name,name="comp_view"),
+    path('view_table',views.view_table,name="view_table")
+    
     ]
     

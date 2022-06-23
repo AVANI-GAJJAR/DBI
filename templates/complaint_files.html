@@ -13,10 +13,20 @@ Welcome
   </tr>
   <tr>
     
-    {% for teamname in Comp %}
+    {% for teamname ,ji in Comp %}
     <tr>
         <td>{{ teamname }}</td>
-        <td><button type="button" class="btn btn-success"><a href="cf/{{ teamname }}" style="color:white">Download Report</a></button></td>
+        <td>
+          <form action="view_table" method="post">{% csrf_token %} 
+            <!-- <button name = ' link ' type="submit" class="btn btn-success" value="Hello" style="color:white">Download Report</a></button> -->
+            <!-- <input type="submit" value= {{teamname}} type="button" name="wor"> -->
+            <button type="submit" name="wor" value = {{ji}} class="btn btn-success" style="color:white">Download Report</button>
+
+
+            
+          </form>
+
+        </td>
     </tr>
       {% endfor %}
 </table>
