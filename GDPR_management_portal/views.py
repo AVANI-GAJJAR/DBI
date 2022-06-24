@@ -17,8 +17,6 @@ def auth(request):
         pwd=request.POST.get('password')
         if nm=="ddx1" and pwd=="Demo":
             nc,nonc=pipe.main_pipeline(r'D:\Infoware\DBI\TEST',r'D:\Infoware\DBI\Output')
-            #nc - > number of complinet
-            #nonc - > number of non complinet
             params={'Nos':nc,'NosNonComliant':nonc}
             
             return render(request,'index.html',params)
@@ -122,10 +120,6 @@ def complaint_file_name(request):
             c=q+s
             file.to_html(c) 
             html_fl.append(c)
-
-
-
-
     mylist=zip(complaint_file_name,html_fl)
     params={"Comp":mylist}
     return render(request, 'complaint_files.html',params)
