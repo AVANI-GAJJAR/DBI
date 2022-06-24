@@ -1,0 +1,130 @@
+{% extends 'base.html' %}
+{% block title %}
+GDPR Management Portal
+{% endblock title %}
+
+{% block body %}<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+<script type="text/javascript">
+    // Load google charts
+    google.charts.load('current', {'packages':['corechart']});
+    google.charts.setOnLoadCallback(drawChart);
+    
+    // Draw the chart and set the chart values
+    function drawChart() {
+      var data = google.visualization.arrayToDataTable([
+      ['Task', 'Hours per Day'],
+      ['Bussiness account info', 8],
+      ['Debtors', 2],
+      ['EHR Patient info', 2],
+      ['Membership', 2],
+      ['Payroll/Time Sheet', 2],
+      ['Personal account', 8]
+    ]);
+    var data2 = google.visualization.arrayToDataTable([
+      ['Compliant', 'Non Compliant'],
+      ['N', 8],
+      ['Y', 2],
+     
+    ]);
+    var data3= google.visualization.arrayToDataTable([
+      ['Compliant', 'Non Compliant'],
+      ['N', 3],
+      ['Y', 6],
+     
+    ]);
+      // Optional; add a title and set the width and height of the chart
+      var options = {'title':'', 'width':350, 'height':250};
+    
+      // Display the chart inside the <div> element with id="piechart"
+      var chart = new google.visualization.PieChart(document.getElementById('piechart'));
+      chart.draw(data, options);
+      var chart2 = new google.visualization.PieChart(document.getElementById('piechart2'));
+      chart2.draw(data2, options);
+      var chart3 = new google.visualization.PieChart(document.getElementById('piechart3'));
+      chart3.draw(data3, options);
+    }
+    </script>
+<div style="background-color:#2E9FF7">
+   <font color="white"><h2> <img src="" alt="DDX "> GDPR Management Portal</h2></font>
+</div>
+<div>
+    <ul class="nav nav-tabs mx-5">
+        <li class="nav-item">
+          <a class="nav-link active" aria-current="page" href="#">GDPR Dashboard</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link disabled" href="#">Ad Hoc cBase</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link disabled" href="#">Printable Report</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link disabled">Personal Data Report</a>
+        </li>
+      </ul>
+      
+</div>
+<div class="row  mx-5 my-2 text-center">
+    
+    <div class="col my-1"  >
+      <div class="card h-100  mx-5" style="width:30rem">
+        <div class="card-header p-3 mb-2 bg-primary text-white ">
+            Number Of Compliant Files
+        </div>
+        <div class="card-body">
+          <h2><span class="align-middle">{{Nos}}</span></h2>
+          <a href="comp_view" class="btn btn-primary" role="button" data-bs-toggle="button">View Files</a> 
+        </div>
+      </div>
+    </div>
+    
+    
+    <div class="col my-1">
+        <div class="card h-100 mx-5" style="width:30rem">
+            <div class="card-header p-3 mb-2 bg-primary text-white ">
+              Number Of Non-Compliant Files
+            </div>
+          <div class="card-body">
+            <h2><span class="align-middle">{{NosNonComliant}}</span></h2>
+            <a href="non_comp_view" class="btn btn-primary" role="button" data-bs-toggle="button">View Files</a>
+        </div>
+        </div>
+      </div>
+      
+      <div class="col my-1">
+        <div class="card h-100 mx-5" style="width:30rem">
+            <div class="card-header p-3 mb-2 bg-primary text-white ">
+              Number Of Non-Compliant Files
+            </div>
+          <div class="card-body">
+            <h2><span class="align-middle">{{NosNonComliant}}</span></h2>
+            <a href="non_comp_view" class="btn btn-primary" role="button" data-bs-toggle="button">View Files</a>
+        </div>
+        </div>
+      </div>
+      <div class="col my-1">
+        <div class="card h-100 mx-5" style="width:30rem">
+            <div class="card-header p-3 mb-2 bg-primary text-white ">
+              <form method="post" action="">{% csrf_token %}
+                <input type="file" name="myfile" />
+                <input type="submit" name="submit" value="Upload" />
+              </form>
+            </div>
+          
+        </div>
+      </div>
+      <div class="col my-1">
+        <div class="card h-100 mx-5" style="width:30rem">
+            <div class="card-header p-3 mb-2 bg-primary text-white ">
+              <form method="post" action="">{% csrf_token %}
+                <input type="file" name="myfile" />
+                <input type="submit" name="submit" value="Upload" />
+              </form>
+            </div>
+          
+        </div>
+      </div>
+    </div>
+    
+  </div>
+{% endblock body %}
