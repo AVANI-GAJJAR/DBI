@@ -1,0 +1,25 @@
+Hvad	Hvor	Hvem	Hvornår	Kortnr.	Systemkode	Systemkode
+Adgang tildelt [96]	Teknikhus Læser Sluse stuen	Securitas 24/7 Lånekort, Vagt afløser -	28-09-2021 05:37	96	30498										
+Adgang tildelt [5]	Teknikhus Læser Sluse stuen	Digiplex, Sten, Jensen	28-09-2021 07:04	5	30498										
+Adgang tildelt [25]	Teknikhus Læser Sluse stuen	DigiPlex, Siemens - Morten, Lånekort	28-09-2021 07:37	25	30498										
+Adgang tildelt [6]	Teknikhus Læser Sluse stuen	Digiplex, Mark, Kjeldstrøm	28-09-2021 07:42	6	30498										
+Adgang tildelt [9]	Teknikhus Læser Sluse stuen	Digiplex, Anders, Hansen	28-09-2021 08:02	9	30498										
+Adgang tildelt [47]	Teknikhus Læser Sluse stuen	DigiPlex, Jakob Outzen, Altibox	28-09-2021 08:54	47	30498										
+Adgang tildelt [25]	Teknikhus Læser Sluse stuen	DigiPlex, Siemens - Morten, Lånekort	28-09-2021 09:42	25	30498										
+Adgang tildelt [47]	Teknikhus Læser Sluse stuen	DigiPlex, Jakob Outzen, Altibox	28-09-2021 09:45	47	30498										
+Adgang tildelt [6]	Teknikhus Læser Sluse stuen	Digiplex, Mark, Kjeldstrøm	28-09-2021 11:30	6	30498										
+Adgang tildelt [47]	Teknikhus Læser Sluse stuen	DigiPlex, Jakob Outzen, Altibox	28-09-2021 11:35	47	30498										
+Adgang tildelt [25]	Teknikhus Læser Sluse stuen	DigiPlex, Siemens - Morten, Lånekort	28-09-2021 11:38	25	30498										
+Adgang tildelt [20]	Teknikhus Læser Sluse stuen	Eurest Rengøring, Suneenart	28-09-2021 12:00	20	30498										
+Adgang tildelt [47]	Teknikhus Læser Sluse stuen	DigiPlex, Jakob Outzen, Altibox	28-09-2021 12:01	47	30498										
+Adgang tildelt [47]	Teknikhus Læser Sluse stuen	DigiPlex, Jakob Outzen, Altibox	28-09-2021 13:33	47	30498										
+Adgang tildelt [47]	Teknikhus Læser Sluse stuen	DigiPlex, Jakob Outzen, Altibox	28-09-2021 13:40	47	30498										
+Adgang tildelt [5]	Teknikhus Læser Sluse stuen	Digiplex, Sten, Jensen	28-09-2021 14:01	5	30498										
+Adgang tildelt [47]	Teknikhus Læser Sluse stuen	DigiPlex, Jakob Outzen, Altibox	28-09-2021 14:30	47	30498										
+Forkert PIN [107]	Teknikhus Læser Sluse stuen	Telia Lånekort Gul, Gæst - Ali, Claud dalsgaard	28-09-2021 14:45	107	30498										
+Adgang tildelt [107]	Teknikhus Læser Sluse stuen	Telia Lånekort Gul, Gæst - Ali, Claud dalsgaard	28-09-2021 14:45	107	30498										
+Adgang tildelt [107]	Teknikhus Læser Sluse stuen	Telia Lånekort Gul, Gæst - Ali, Claud dalsgaard	28-09-2021 14:45	107	30498										
+Adgang tildelt [5]	Teknikhus Læser Sluse stuen	Digiplex, Sten, Jensen	28-09-2021 17:28	5	30498										
+Adgang tildelt [96]	Teknikhus Læser Sluse stuen	Securitas 24/7 Lånekort, Vagt afløser -	28-09-2021 19:06	96	30498										
+
+Samlede antal poster: 22

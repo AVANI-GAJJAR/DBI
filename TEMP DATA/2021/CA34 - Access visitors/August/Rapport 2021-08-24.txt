@@ -1,0 +1,20 @@
+Hvad	Hvor	Hvem	Hvornår	Kortnr.	Systemkode	Systemkode
+Adgang tildelt [95]	Teknikhus Læser Sluse stuen	Securitas, Ali El Ouamrani	24-08-2021 05:30	95	30498										
+Adgang tildelt [6]	Teknikhus Læser Sluse stuen	Digiplex, Mark, Kjeldstrøm	24-08-2021 07:02	6	30498										
+Adgang tildelt [15]	Teknikhus Læser Sluse stuen	Digiplex - Gæstekort 2, Gæst 2 - Gæst til Michael Zarske, KL Køl	24-08-2021 07:19	15	30498										
+Adgang tildelt [14]	Teknikhus Læser Sluse stuen	Digiplex - Gæstekort 1, Gæst 1 - Michael Zarske, KL Køl	24-08-2021 07:20	14	30498										
+Adgang tildelt [9]	Teknikhus Læser Sluse stuen	Digiplex, Anders, Hansen	24-08-2021 07:32	9	30498										
+Adgang tildelt [15]	Teknikhus Læser Sluse stuen	Digiplex - Gæstekort 2, Gæst 2 - Gæst til Michael Zarske, KL Køl	24-08-2021 08:41	15	30498										
+Adgang tildelt [15]	Teknikhus Læser Sluse stuen	Digiplex - Gæstekort 2, Gæst 2 - Gæst til Michael Zarske, KL Køl	24-08-2021 08:42	15	30498										
+Adgang tildelt [14]	Teknikhus Læser Sluse stuen	Digiplex - Gæstekort 1, Gæst 1 - Michael Zarske, KL Køl	24-08-2021 08:52	14	30498										
+Adgang tildelt [14]	Teknikhus Læser Sluse stuen	Digiplex - Gæstekort 1, Gæst 1 - Michael Zarske, KL Køl	24-08-2021 08:52	14	30498										
+Adgang tildelt [112]	Teknikhus Læser Sluse stuen	Telia Permanent Rød, Thomas, Kjær	24-08-2021 10:14	112	30498										
+Adgang tildelt [6]	Teknikhus Læser Sluse stuen	Digiplex, Mark, Kjeldstrøm	24-08-2021 11:12	6	30498										
+Adgang tildelt [43]	Teknikhus Læser Sluse stuen	DigiPlex, Adrian Dascalu, EEA	24-08-2021 11:19	43	30498										
+Adgang tildelt [14]	Teknikhus Læser Sluse stuen	Digiplex - Gæstekort 1, Gæst 1 - Michael Zarske, KL Køl	24-08-2021 11:44	14	30498										
+Adgang tildelt [14]	Teknikhus Læser Sluse stuen	Digiplex - Gæstekort 1, Gæst 1 - Michael Zarske, KL Køl	24-08-2021 11:44	14	30498										
+Adgang tildelt [9]	Teknikhus Læser Sluse stuen	Digiplex, Anders, Hansen	24-08-2021 12:50	9	30498										
+Adgang tildelt [95]	Teknikhus Læser Sluse stuen	Securitas, Ali El Ouamrani	24-08-2021 19:05	95	30498										
+Adgang tildelt [95]	Teknikhus Læser Sluse stuen	Securitas, Ali El Ouamrani	24-08-2021 19:34	95	30498										
+
+Samlede antal poster: 17

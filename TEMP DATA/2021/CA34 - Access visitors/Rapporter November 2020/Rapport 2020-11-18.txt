@@ -1,0 +1,22 @@
+Hvad	Hvor	Hvem	Hvornår	Kortnr.	Systemkode	Systemkode
+Adgang tildelt [95]	Teknikhus Læser Sluse stuen	Securitas, Ali El Ouamrani	18-11-2020 04:22	95	30498										
+Adgang tildelt [9]	Teknikhus Læser Sluse stuen	Digiplex, Anders, Hansen	18-11-2020 07:43	9	30498										
+Adgang tildelt [6]	Teknikhus Læser Sluse stuen	Digiplex, Mark, Kjeldstrøm	18-11-2020 07:44	6	30498										
+Adgang tildelt [104]	Teknikhus Læser Sluse stuen	Telia Lånekort Gul, Per Fisher, nokia	18-11-2020 09:01	104	30498										
+Adgang tildelt [104]	Teknikhus Læser Sluse stuen	Telia Lånekort Gul, Per Fisher, nokia	18-11-2020 09:01	104	30498										
+Adgang tildelt [101]	Teknikhus Læser Sluse stuen	Telia Lånekort Gul, Claus Henriksen, Telia	18-11-2020 09:21	101	30498										
+Adgang tildelt [21]	Teknikhus Læser Sluse stuen	DigiPlex, Kone, Peter Christensen	18-11-2020 09:24	21	30498										
+Adgang tildelt [5]	Teknikhus Læser Sluse stuen	Digiplex, Sten, Jensen	18-11-2020 09:29	5	30498										
+Adgang tildelt [5]	Teknikhus Læser Sluse stuen	Digiplex, Sten, Jensen	18-11-2020 09:36	5	30498										
+Adgang tildelt [5]	Teknikhus Læser Sluse stuen	Digiplex, Sten, Jensen	18-11-2020 09:37	5	30498										
+Adgang tildelt [21]	Teknikhus Læser Sluse stuen	DigiPlex, Kone, Peter Christensen	18-11-2020 10:15	21	30498										
+Adgang tildelt [21]	Teknikhus Læser Sluse stuen	DigiPlex, Kone, Peter Christensen	18-11-2020 10:16	21	30498										
+Adgang tildelt [20]	Teknikhus Læser Sluse stuen	Eurest Rengøring, Gæste, Suneenart	18-11-2020 10:33	20	30498										
+Adgang tildelt [6]	Teknikhus Læser Sluse stuen	Digiplex, Mark, Kjeldstrøm	18-11-2020 11:58	6	30498										
+Adgang tildelt [5]	Teknikhus Læser Sluse stuen	Digiplex, Sten, Jensen	18-11-2020 11:58	5	30498										
+Adgang tildelt [5]	Teknikhus Læser Sluse stuen	Digiplex, Sten, Jensen	18-11-2020 12:46	5	30498										
+Adgang tildelt [104]	Teknikhus Læser Sluse stuen	Telia Lånekort Gul, Per Fisher, nokia	18-11-2020 12:59	104	30498										
+Adgang tildelt [5]	Teknikhus Læser Sluse stuen	Digiplex, Sten, Jensen	18-11-2020 13:22	5	30498										
+Adgang tildelt [93]	Teknikhus Læser Sluse stuen	Securitas, Ügur Øzdemir	18-11-2020 18:28	93	30498										
+
+Samlede antal poster: 19

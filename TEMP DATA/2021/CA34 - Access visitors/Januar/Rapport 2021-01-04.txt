@@ -1,0 +1,10 @@
+Hvad	Hvor	Hvem	Hvornår	Kortnr.	Systemkode	Systemkode
+Adgang tildelt [91]	Teknikhus Læser Sluse stuen	Securitas, Cengiz Baysal	04-01-2021 05:14	91	30498										
+Adgang tildelt [5]	Teknikhus Læser Sluse stuen	Digiplex, Sten, Jensen	04-01-2021 07:15	5	30498										
+Adgang tildelt [20]	Teknikhus Læser Sluse stuen	Eurest Rengøring, Suneenart	04-01-2021 10:34	20	30498										
+Adgang tildelt [102]	Teknikhus Læser Sluse stuen	Telia Lånekort Gul, Carsten Pedersen, DI-Teknik	04-01-2021 12:43	102	30498										
+Adgang tildelt [102]	Teknikhus Læser Sluse stuen	Telia Lånekort Gul, Carsten Pedersen, DI-Teknik	04-01-2021 13:12	102	30498										
+Adgang tildelt [4]	Teknikhus Læser Sluse stuen	Claus Dalsgaard, Hassan, Bouallouch	04-01-2021 14:55	4	30498										
+Adgang tildelt [91]	Teknikhus Læser Sluse stuen	Securitas, Cengiz Baysal	04-01-2021 20:03	91	30498										
+
+Samlede antal poster: 7

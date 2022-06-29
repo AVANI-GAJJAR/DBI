@@ -1,0 +1,23 @@
+Hvad	Hvor	Hvem	Hvornår	Kortnr.	Systemkode	Systemkode
+Adgang tildelt [95]	Teknikhus Læser Sluse stuen	Securitas, Ali El Ouamrani	02-12-2020 04:33	95	30498										
+Adgang tildelt [5]	Teknikhus Læser Sluse stuen	Digiplex, Sten, Jensen	02-12-2020 06:52	5	30498										
+Adgang tildelt [6]	Teknikhus Læser Sluse stuen	Digiplex, Mark, Kjeldstrøm	02-12-2020 08:00	6	30498										
+Adgang tildelt [102]	Teknikhus Læser Sluse stuen	Telia Lånekort Gul, Igor Korenev, Nokia	02-12-2020 09:53	102	30498										
+Adgang tildelt [102]	Teknikhus Læser Sluse stuen	Telia Lånekort Gul, Igor Korenev, Nokia	02-12-2020 09:54	102	30498										
+Adgang tildelt [102]	Teknikhus Læser Sluse stuen	Telia Lånekort Gul, Igor Korenev, Nokia	02-12-2020 09:54	102	30498										
+Adgang tildelt [103]	Teknikhus Læser Sluse stuen	Telia Lånekort Gul, Dennis, Ratz	02-12-2020 09:56	103	30498										
+Adgang tildelt [20]	Teknikhus Læser Sluse stuen	Eurest Rengøring, Suneenart	02-12-2020 10:43	20	30498										
+Adgang tildelt [104]	Teknikhus Læser Sluse stuen	Telia Lånekort Gul, Claus Dalsgaard	02-12-2020 12:02	104	30498										
+Adgang tildelt [13]	Teknikhus Læser Sluse stuen	DigiPlex - Gæstekort 5, Gæst 5 - Peter Christensen, Claus Dalsga	02-12-2020 12:09	13	30498										
+Adgang tildelt [102]	Teknikhus Læser Sluse stuen	Telia Lånekort Gul, Igor Korenev, Nokia	02-12-2020 13:11	102	30498										
+Adgang tildelt [5]	Teknikhus Læser Sluse stuen	Digiplex, Sten, Jensen	02-12-2020 13:41	5	30498										
+Adgang tildelt [13]	Teknikhus Læser Sluse stuen	DigiPlex - Gæstekort 5, Gæst 5 - Peter Christensen, Claus Dalsga	02-12-2020 14:11	13	30498										
+Adgang tildelt [5]	Teknikhus Læser Sluse stuen	Digiplex, Sten, Jensen	02-12-2020 14:48	5	30498										
+Adgang tildelt [5]	Teknikhus Læser Sluse stuen	Digiplex, Sten, Jensen	02-12-2020 14:48	5	30498										
+Adgang tildelt [13]	Teknikhus Læser Sluse stuen	DigiPlex - Gæstekort 5, Gæst 5 - Peter Christensen, Claus Dalsga	02-12-2020 15:06	13	30498										
+Adgang tildelt [93]	Teknikhus Læser Sluse stuen	Securitas, Ügur Øzdemir	02-12-2020 18:06	93	30498										
+Adgang tildelt [104]	Teknikhus Læser Sluse stuen	Telia Lånekort Gul, Thomas Schsk	02-12-2020 18:15	104	30498										
+Adgang tildelt [104]	Teknikhus Læser Sluse stuen	Telia Lånekort Gul, Thomas Schsk	02-12-2020 18:16	104	30498										
+Adgang tildelt [93]	Teknikhus Læser Sluse stuen	Securitas, Ügur Øzdemir	02-12-2020 19:21	93	30498										
+
+Samlede antal poster: 20

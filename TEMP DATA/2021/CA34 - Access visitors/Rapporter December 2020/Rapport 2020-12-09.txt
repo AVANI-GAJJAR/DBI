@@ -1,0 +1,25 @@
+Hvad	Hvor	Hvem	Hvornår	Kortnr.	Systemkode	Systemkode
+Adgang tildelt [95]	Teknikhus Læser Sluse stuen	Securitas, Ali El Ouamrani	09-12-2020 04:35	95	30498										
+Adgang tildelt [5]	Teknikhus Læser Sluse stuen	Digiplex, Sten, Jensen	09-12-2020 06:55	5	30498										
+Adgang tildelt [111]	Teknikhus Læser Sluse stuen	Telia Permanent Rød, Morten, Jensen	09-12-2020 09:29	111	30498										
+Adgang tildelt [111]	Teknikhus Læser Sluse stuen	Telia Permanent Rød, Morten, Jensen	09-12-2020 09:30	111	30498										
+Adgang tildelt [111]	Teknikhus Læser Sluse stuen	Telia Permanent Rød, Morten, Jensen	09-12-2020 09:30	111	30498										
+Adgang tildelt [111]	Teknikhus Læser Sluse stuen	Telia Permanent Rød, Morten, Jensen	09-12-2020 09:46	111	30498										
+Adgang tildelt [111]	Teknikhus Læser Sluse stuen	Telia Permanent Rød, Morten, Jensen	09-12-2020 09:46	111	30498										
+Adgang tildelt [103]	Teknikhus Læser Sluse stuen	Telia Lånekort Gul, Per Fisher	09-12-2020 09:50	103	30498										
+Adgang tildelt [111]	Teknikhus Læser Sluse stuen	Telia Permanent Rød, Morten, Jensen	09-12-2020 10:15	111	30498										
+Adgang tildelt [111]	Teknikhus Læser Sluse stuen	Telia Permanent Rød, Morten, Jensen	09-12-2020 10:15	111	30498										
+Adgang tildelt [20]	Teknikhus Læser Sluse stuen	Eurest Rengøring, Suneenart	09-12-2020 10:25	20	30498										
+Adgang tildelt [4]	Teknikhus Læser Sluse stuen	Claus Dalsgaard, Hassan, Bouallouch	09-12-2020 11:30	4	30498										
+Adgang tildelt [4]	Teknikhus Læser Sluse stuen	Claus Dalsgaard, Hassan, Bouallouch	09-12-2020 11:30	4	30498										
+Adgang tildelt [103]	Teknikhus Læser Sluse stuen	Telia Lånekort Gul, Per Fisher	09-12-2020 12:26	103	30498										
+Adgang tildelt [34]	Teknikhus Læser Sluse stuen	DigiPlex, Alexander Borchum, Antenne Mesteren	09-12-2020 13:25	34	30498										
+Adgang tildelt [34]	Teknikhus Læser Sluse stuen	DigiPlex, Alexander Borchum, Antenne Mesteren	09-12-2020 13:26	34	30498										
+Adgang tildelt [34]	Teknikhus Læser Sluse stuen	DigiPlex, Alexander Borchum, Antenne Mesteren	09-12-2020 13:42	34	30498										
+Adgang tildelt [34]	Teknikhus Læser Sluse stuen	DigiPlex, Alexander Borchum, Antenne Mesteren	09-12-2020 13:42	34	30498										
+Adgang tildelt [34]	Teknikhus Læser Sluse stuen	DigiPlex, Alexander Borchum, Antenne Mesteren	09-12-2020 14:18	34	30498										
+Adgang tildelt [34]	Teknikhus Læser Sluse stuen	DigiPlex, Alexander Borchum, Antenne Mesteren	09-12-2020 14:18	34	30498										
+Adgang tildelt [40]	Teknikhus Læser Sluse stuen	DigiPlex, Søren Roug, EEA	09-12-2020 15:11	40	30498										
+Adgang tildelt [95]	Teknikhus Læser Sluse stuen	Securitas, Ali El Ouamrani	09-12-2020 19:15	95	30498										
+
+Samlede antal poster: 22

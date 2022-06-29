@@ -1,0 +1,24 @@
+Hvad	Hvor	Hvem	Hvornår	Kortnr.	Systemkode	Systemkode
+Adgang tildelt [93]	Teknikhus Læser Sluse stuen	Securitas, Ügur Øzdemir	24-01-2021 03:48	93	30498										
+Adgang tildelt [92]	Teknikhus Læser Sluse stuen	Securitas, Neir Valjevcic	24-01-2021 05:36	92	30498										
+Adgang tildelt [43]	Teknikhus Læser Sluse stuen	DigiPlex, Adrian Dascalu, EEA	24-01-2021 08:14	43	30498										
+Adgang tildelt [39]	Teknikhus Læser Sluse stuen	DigiPlex, Lars Rørup, EEA	24-01-2021 08:48	39	30498										
+Adgang tildelt [39]	Teknikhus Læser Sluse stuen	DigiPlex, Lars Rørup, EEA	24-01-2021 10:24	39	30498										
+Adgang tildelt [39]	Teknikhus Læser Sluse stuen	DigiPlex, Lars Rørup, EEA	24-01-2021 10:27	39	30498										
+Adgang tildelt [14]	Teknikhus Læser Sluse stuen	Digiplex - Gæstekort 1, Gæst 1 - Telindus, EEA	24-01-2021 10:27	14	30498										
+Adgang tildelt [43]	Teknikhus Læser Sluse stuen	DigiPlex, Adrian Dascalu, EEA	24-01-2021 12:14	43	30498										
+Adgang tildelt [43]	Teknikhus Læser Sluse stuen	DigiPlex, Adrian Dascalu, EEA	24-01-2021 12:14	43	30498										
+Adgang tildelt [43]	Teknikhus Læser Sluse stuen	DigiPlex, Adrian Dascalu, EEA	24-01-2021 12:15	43	30498										
+Adgang tildelt [40]	Teknikhus Læser Sluse stuen	DigiPlex, Søren Roug, EEA	24-01-2021 13:11	40	30498										
+Adgang tildelt [40]	Teknikhus Læser Sluse stuen	DigiPlex, Søren Roug, EEA	24-01-2021 13:51	40	30498										
+Kort udløbet [17]	Teknikhus Læser Sluse stuen	Digiplex - Gæstekort 4, Gæst 4 - John Hansen Flyttefirma, EEA	24-01-2021 14:32	17	30498										
+Adgang tildelt [13]	Teknikhus Læser Sluse stuen	DigiPlex - Gæstekort 5, Gæst 5 - Telindus, EEA	24-01-2021 14:33	13	30498										
+Adgang tildelt [13]	Teknikhus Læser Sluse stuen	DigiPlex - Gæstekort 5, Gæst 5 - Telindus, EEA	24-01-2021 14:33	13	30498										
+Adgang tildelt [39]	Teknikhus Læser Sluse stuen	DigiPlex, Lars Rørup, EEA	24-01-2021 15:16	39	30498										
+Adgang tildelt [39]	Teknikhus Læser Sluse stuen	DigiPlex, Lars Rørup, EEA	24-01-2021 16:56	39	30498										
+Adgang tildelt [13]	Teknikhus Læser Sluse stuen	DigiPlex - Gæstekort 5, Gæst 5 - Telindus, EEA	24-01-2021 18:32	13	30498										
+Adgang tildelt [40]	Teknikhus Læser Sluse stuen	DigiPlex, Søren Roug, EEA	24-01-2021 18:41	40	30498										
+Adgang tildelt [40]	Teknikhus Læser Sluse stuen	DigiPlex, Søren Roug, EEA	24-01-2021 19:59	40	30498										
+Adgang tildelt [39]	Teknikhus Læser Sluse stuen	DigiPlex, Lars Rørup, EEA	24-01-2021 21:26	39	30498										
+
+Samlede antal poster: 21

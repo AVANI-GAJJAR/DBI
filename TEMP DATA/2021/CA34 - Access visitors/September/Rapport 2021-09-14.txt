@@ -1,0 +1,24 @@
+Hvad	Hvor	Hvem	Hvornår	Kortnr.	Systemkode	Systemkode
+Adgang tildelt [5]	Teknikhus Læser Sluse stuen	Digiplex, Sten, Jensen	14-09-2021 06:58	5	30498										
+Adgang tildelt [6]	Teknikhus Læser Sluse stuen	Digiplex, Mark, Kjeldstrøm	14-09-2021 08:14	6	30498										
+Adgang tildelt [15]	Teknikhus Læser Sluse stuen	Digiplex - Gæstekort 2, Gæst 2 - Jan, HeDan	14-09-2021 09:00	15	30498										
+Adgang tildelt [14]	Teknikhus Læser Sluse stuen	Digiplex - Gæstekort 1, Gæst 1 - Kevin, HeDan	14-09-2021 09:13	14	30498										
+Adgang tildelt [15]	Teknikhus Læser Sluse stuen	Digiplex - Gæstekort 2, Gæst 2 - Jan, HeDan	14-09-2021 09:26	15	30498										
+Adgang tildelt [15]	Teknikhus Læser Sluse stuen	Digiplex - Gæstekort 2, Gæst 2 - Jan, HeDan	14-09-2021 10:51	15	30498										
+Adgang tildelt [15]	Teknikhus Læser Sluse stuen	Digiplex - Gæstekort 2, Gæst 2 - Jan, HeDan	14-09-2021 11:15	15	30498										
+Adgang tildelt [14]	Teknikhus Læser Sluse stuen	Digiplex - Gæstekort 1, Gæst 1 - Kevin, HeDan	14-09-2021 11:15	14	30498										
+Adgang tildelt [14]	Teknikhus Læser Sluse stuen	Digiplex - Gæstekort 1, Gæst 1 - Kevin, HeDan	14-09-2021 12:03	14	30498										
+Adgang tildelt [20]	Teknikhus Læser Sluse stuen	Eurest Rengøring, Suneenart	14-09-2021 12:18	20	30498										
+Adgang tildelt [15]	Teknikhus Læser Sluse stuen	Digiplex - Gæstekort 2, Gæst 2 - Jan, HeDan	14-09-2021 12:37	15	30498										
+Adgang tildelt [14]	Teknikhus Læser Sluse stuen	Digiplex - Gæstekort 1, Gæst 1 - Kevin, HeDan	14-09-2021 12:38	14	30498										
+Adgang tildelt [15]	Teknikhus Læser Sluse stuen	Digiplex - Gæstekort 2, Gæst 2 - Jan, HeDan	14-09-2021 12:45	15	30498										
+Adgang tildelt [14]	Teknikhus Læser Sluse stuen	Digiplex - Gæstekort 1, Gæst 1 - Kevin, HeDan	14-09-2021 12:59	14	30498										
+Adgang tildelt [14]	Teknikhus Læser Sluse stuen	Digiplex - Gæstekort 1, Gæst 1 - Kevin, HeDan	14-09-2021 13:39	14	30498										
+Adgang tildelt [15]	Teknikhus Læser Sluse stuen	Digiplex - Gæstekort 2, Gæst 2 - Jan, HeDan	14-09-2021 13:41	15	30498										
+Adgang tildelt [122]	Teknikhus Læser Sluse stuen	Telia Permanent Rød, Hassan Bouallouch	14-09-2021 14:14	122	30498										
+Adgang tildelt [122]	Teknikhus Læser Sluse stuen	Telia Permanent Rød, Hassan Bouallouch	14-09-2021 14:15	122	30498										
+Adgang tildelt [122]	Teknikhus Læser Sluse stuen	Telia Permanent Rød, Hassan Bouallouch	14-09-2021 14:15	122	30498										
+Adgang tildelt [111]	Teknikhus Læser Sluse stuen	Telia Permanent Rød, Morten, Jensen	14-09-2021 16:15	111	30498										
+Adgang tildelt [90]	Teknikhus Læser Sluse stuen	Securitas, Karim Ayachi	14-09-2021 19:11	90	30498										
+
+Samlede antal poster: 21

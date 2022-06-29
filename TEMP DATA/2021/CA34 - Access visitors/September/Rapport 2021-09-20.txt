@@ -1,0 +1,14 @@
+Hvad	Hvor	Hvem	Hvornår	Kortnr.	Systemkode	Systemkode
+Adgang tildelt [95]	Teknikhus Læser Sluse stuen	Securitas, Ali El Ouamrani	20-09-2021 05:26	95	30498										
+Adgang tildelt [5]	Teknikhus Læser Sluse stuen	Digiplex, Sten, Jensen	20-09-2021 06:54	5	30498										
+Adgang tildelt [9]	Teknikhus Læser Sluse stuen	Digiplex, Anders, Hansen	20-09-2021 07:39	9	30498										
+Adgang tildelt [6]	Teknikhus Læser Sluse stuen	Digiplex, Mark, Kjeldstrøm	20-09-2021 08:12	6	30498										
+Adgang tildelt [9]	Teknikhus Læser Sluse stuen	Digiplex, Anders, Hansen	20-09-2021 10:44	9	30498										
+Adgang tildelt [20]	Teknikhus Læser Sluse stuen	Eurest Rengøring, Suneenart	20-09-2021 11:04	20	30498										
+Adgang tildelt [20]	Teknikhus Læser Sluse stuen	Eurest Rengøring, Suneenart	20-09-2021 11:04	20	30498										
+Adgang tildelt [5]	Teknikhus Læser Sluse stuen	Digiplex, Sten, Jensen	20-09-2021 11:59	5	30498										
+Adgang tildelt [5]	Teknikhus Læser Sluse stuen	Digiplex, Sten, Jensen	20-09-2021 13:02	5	30498										
+Adgang tildelt [47]	Teknikhus Læser Sluse stuen	DigiPlex, Jakob Outzen, Altibox	20-09-2021 15:12	47	30498										
+Adgang tildelt [94]	Teknikhus Læser Sluse stuen	Securitas, Ruhisu Yikilmaz	20-09-2021 19:06	94	30498										
+
+Samlede antal poster: 11

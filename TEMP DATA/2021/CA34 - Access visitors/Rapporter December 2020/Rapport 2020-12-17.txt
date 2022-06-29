@@ -1,0 +1,21 @@
+Hvad	Hvor	Hvem	Hvornår	Kortnr.	Systemkode	Systemkode
+Adgang tildelt [93]	Teknikhus Læser Sluse stuen	Securitas, Ügur Øzdemir	17-12-2020 04:35	93	30498										
+Adgang tildelt [5]	Teknikhus Læser Sluse stuen	Digiplex, Sten, Jensen	17-12-2020 06:43	5	30498										
+Adgang tildelt [5]	Teknikhus Læser Sluse stuen	Digiplex, Sten, Jensen	17-12-2020 07:14	5	30498										
+Adgang tildelt [101]	Teknikhus Læser Sluse stuen	Telia Lånekort Gul, Per Fisher, Nokia Networks	17-12-2020 10:01	101	30498										
+Adgang tildelt [39]	Teknikhus Læser Sluse stuen	DigiPlex, Lars Rørup, EEA	17-12-2020 10:34	39	30498										
+Adgang tildelt [42]	Teknikhus Læser Sluse stuen	DigiPlex, Andrei Cenja, EEA	17-12-2020 10:34	42	30498										
+Kort udløbet [13]	Teknikhus Læser Sluse stuen	DigiPlex - Gæstekort 5, Gæst 5 - Søren, Gitterfabrikken	17-12-2020 10:48	13	30498										
+Adgang tildelt [39]	Teknikhus Læser Sluse stuen	DigiPlex, Lars Rørup, EEA	17-12-2020 10:48	39	30498										
+Adgang tildelt [39]	Teknikhus Læser Sluse stuen	DigiPlex, Lars Rørup, EEA	17-12-2020 10:49	39	30498										
+Adgang tildelt [39]	Teknikhus Læser Sluse stuen	DigiPlex, Lars Rørup, EEA	17-12-2020 10:49	39	30498										
+Adgang tildelt [101]	Teknikhus Læser Sluse stuen	Telia Lånekort Gul, Per Fisher, Nokia Networks	17-12-2020 11:47	101	30498										
+Adgang tildelt [5]	Teknikhus Læser Sluse stuen	Digiplex, Sten, Jensen	17-12-2020 12:27	5	30498										
+Adgang tildelt [40]	Teknikhus Læser Sluse stuen	DigiPlex, Søren Roug, EEA	17-12-2020 12:55	40	30498										
+Adgang tildelt [101]	Teknikhus Læser Sluse stuen	Telia Lånekort Gul, Cluus Henriksen, CD.	17-12-2020 13:01	101	30498										
+Adgang tildelt [4]	Teknikhus Læser Sluse stuen	Claus Dalsgaard, Hassan, Bouallouch	17-12-2020 13:14	4	30498										
+Adgang tildelt [5]	Teknikhus Læser Sluse stuen	Digiplex, Sten, Jensen	17-12-2020 13:37	5	30498										
+Adgang tildelt [5]	Teknikhus Læser Sluse stuen	Digiplex, Sten, Jensen	17-12-2020 14:17	5	30498										
+Adgang tildelt [93]	Teknikhus Læser Sluse stuen	Securitas, Ügur Øzdemir	17-12-2020 18:18	93	30498										
+
+Samlede antal poster: 18

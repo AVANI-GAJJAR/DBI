@@ -1,0 +1,38 @@
+Hvad	Hvor	Hvem	Hvornår	Kortnr.	Systemkode	Systemkode
+Adgang tildelt [95]	Teknikhus Læser Sluse stuen	Securitas, Ali El Ouamrani	14-07-2021 01:39	95	30498										
+Adgang tildelt [95]	Teknikhus Læser Sluse stuen	Securitas, Ali El Ouamrani	14-07-2021 05:31	95	30498										
+Adgang tildelt [6]	Teknikhus Læser Sluse stuen	Digiplex, Mark, Kjeldstrøm	14-07-2021 07:07	6	30498										
+Adgang tildelt [6]	Teknikhus Læser Sluse stuen	Digiplex, Mark, Kjeldstrøm	14-07-2021 07:08	6	30498										
+Adgang tildelt [112]	Teknikhus Læser Sluse stuen	Telia Permanent Rød, Thomas, Kjær	14-07-2021 07:22	112	30498										
+Adgang tildelt [6]	Teknikhus Læser Sluse stuen	Digiplex, Mark, Kjeldstrøm	14-07-2021 07:38	6	30498										
+Adgang tildelt [6]	Teknikhus Læser Sluse stuen	Digiplex, Mark, Kjeldstrøm	14-07-2021 07:39	6	30498										
+Adgang tildelt [15]	Teknikhus Læser Sluse stuen	Digiplex - Gæstekort 2, Gæst 2 - Jacob Linderoth, Claus Dalsgaar	14-07-2021 07:42	15	30498										
+Adgang tildelt [13]	Teknikhus Læser Sluse stuen	DigiPlex - Gæstekort 5, Gæst 5 - Peter, Claus Dalsgaard	14-07-2021 08:02	13	30498										
+Adgang tildelt [15]	Teknikhus Læser Sluse stuen	Digiplex - Gæstekort 2, Gæst 2 - Jacob Linderoth, Claus Dalsgaar	14-07-2021 08:02	15	30498										
+Adgang tildelt [13]	Teknikhus Læser Sluse stuen	DigiPlex - Gæstekort 5, Gæst 5 - Peter, Claus Dalsgaard	14-07-2021 08:33	13	30498										
+Adgang tildelt [15]	Teknikhus Læser Sluse stuen	Digiplex - Gæstekort 2, Gæst 2 - Jacob Linderoth, Claus Dalsgaar	14-07-2021 08:33	15	30498										
+Adgang tildelt [47]	Teknikhus Læser Sluse stuen	DigiPlex, Jakob Outzen, Altibox	14-07-2021 08:34	47	30498										
+Adgang tildelt [47]	Teknikhus Læser Sluse stuen	DigiPlex, Jakob Outzen, Altibox	14-07-2021 08:44	47	30498										
+Adgang tildelt [15]	Teknikhus Læser Sluse stuen	Digiplex - Gæstekort 2, Gæst 2 - Jacob Linderoth, Claus Dalsgaar	14-07-2021 09:15	15	30498										
+Adgang tildelt [20]	Teknikhus Læser Sluse stuen	Eurest Rengøring, Suneenart	14-07-2021 09:27	20	30498										
+Adgang tildelt [15]	Teknikhus Læser Sluse stuen	Digiplex - Gæstekort 2, Gæst 2 - Jacob Linderoth, Claus Dalsgaar	14-07-2021 09:29	15	30498										
+Adgang tildelt [15]	Teknikhus Læser Sluse stuen	Digiplex - Gæstekort 2, Gæst 2 - Jacob Linderoth, Claus Dalsgaar	14-07-2021 09:50	15	30498										
+Adgang tildelt [112]	Teknikhus Læser Sluse stuen	Telia Permanent Rød, Thomas, Kjær	14-07-2021 10:17	112	30498										
+Adgang tildelt [13]	Teknikhus Læser Sluse stuen	DigiPlex - Gæstekort 5, Gæst 5 - Peter, Claus Dalsgaard	14-07-2021 10:38	13	30498										
+Adgang tildelt [15]	Teknikhus Læser Sluse stuen	Digiplex - Gæstekort 2, Gæst 2 - Jacob Linderoth, Claus Dalsgaar	14-07-2021 10:38	15	30498										
+Adgang tildelt [15]	Teknikhus Læser Sluse stuen	Digiplex - Gæstekort 2, Gæst 2 - Jacob Linderoth, Claus Dalsgaar	14-07-2021 10:45	15	30498										
+Adgang tildelt [15]	Teknikhus Læser Sluse stuen	Digiplex - Gæstekort 2, Gæst 2 - Jacob Linderoth, Claus Dalsgaar	14-07-2021 12:11	15	30498										
+Adgang tildelt [13]	Teknikhus Læser Sluse stuen	DigiPlex - Gæstekort 5, Gæst 5 - Peter, Claus Dalsgaard	14-07-2021 12:11	13	30498										
+Forkert PIN [47]	Teknikhus Læser Sluse stuen	DigiPlex, Jakob Outzen, Altibox	14-07-2021 12:27	47	30498										
+Adgang tildelt [47]	Teknikhus Læser Sluse stuen	DigiPlex, Jakob Outzen, Altibox	14-07-2021 12:27	47	30498										
+Adgang tildelt [13]	Teknikhus Læser Sluse stuen	DigiPlex - Gæstekort 5, Gæst 5 - Peter, Claus Dalsgaard	14-07-2021 12:30	13	30498										
+Adgang tildelt [15]	Teknikhus Læser Sluse stuen	Digiplex - Gæstekort 2, Gæst 2 - Jacob Linderoth, Claus Dalsgaar	14-07-2021 12:30	15	30498										
+Adgang tildelt [47]	Teknikhus Læser Sluse stuen	DigiPlex, Jakob Outzen, Altibox	14-07-2021 13:02	47	30498										
+Adgang tildelt [13]	Teknikhus Læser Sluse stuen	DigiPlex - Gæstekort 5, Gæst 5 - Peter, Claus Dalsgaard	14-07-2021 13:35	13	30498										
+Adgang tildelt [15]	Teknikhus Læser Sluse stuen	Digiplex - Gæstekort 2, Gæst 2 - Jacob Linderoth, Claus Dalsgaar	14-07-2021 13:35	15	30498										
+Adgang tildelt [47]	Teknikhus Læser Sluse stuen	DigiPlex, Jakob Outzen, Altibox	14-07-2021 13:48	47	30498										
+Adgang tildelt [47]	Teknikhus Læser Sluse stuen	DigiPlex, Jakob Outzen, Altibox	14-07-2021 14:41	47	30498										
+Adgang tildelt [47]	Teknikhus Læser Sluse stuen	DigiPlex, Jakob Outzen, Altibox	14-07-2021 14:46	47	30498										
+Adgang tildelt [96]	Teknikhus Læser Sluse stuen	Securitas 24/7 Lånekort, Vagt afløser -	14-07-2021 19:06	96	30498										
+
+Samlede antal poster: 35

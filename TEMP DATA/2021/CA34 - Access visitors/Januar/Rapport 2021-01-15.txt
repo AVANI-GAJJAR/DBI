@@ -1,0 +1,17 @@
+Hvad	Hvor	Hvem	Hvornår	Kortnr.	Systemkode	Systemkode
+Adgang tildelt [95]	Teknikhus Læser Sluse stuen	Securitas, Ali El Ouamrani	15-01-2021 04:23	95	30498										
+Adgang tildelt [5]	Teknikhus Læser Sluse stuen	Digiplex, Sten, Jensen	15-01-2021 07:09	5	30498										
+Adgang tildelt [14]	Teknikhus Læser Sluse stuen	Digiplex - Gæstekort 1, Gæst 1 - Jørn, G4S	15-01-2021 07:09	14	30498										
+Adgang tildelt [13]	Teknikhus Læser Sluse stuen	DigiPlex - Gæstekort 5, Gæst 5 - Jan, G4S	15-01-2021 07:33	13	30498										
+Adgang tildelt [14]	Teknikhus Læser Sluse stuen	Digiplex - Gæstekort 1, Gæst 1 - Jørn, G4S	15-01-2021 07:33	14	30498										
+Adgang tildelt [14]	Teknikhus Læser Sluse stuen	Digiplex - Gæstekort 1, Gæst 1 - Jørn, G4S	15-01-2021 07:34	14	30498										
+Adgang tildelt [13]	Teknikhus Læser Sluse stuen	DigiPlex - Gæstekort 5, Gæst 5 - Jan, G4S	15-01-2021 08:41	13	30498										
+Adgang tildelt [14]	Teknikhus Læser Sluse stuen	Digiplex - Gæstekort 1, Gæst 1 - Jørn, G4S	15-01-2021 08:42	14	30498										
+Adgang tildelt [89]	Teknikhus Læser Sluse stuen	DigiPlex, G4S, Boks Vest Port	15-01-2021 09:13	89	30498										
+Adgang tildelt [14]	Teknikhus Læser Sluse stuen	Digiplex - Gæstekort 1, Gæst 1 - Jørn, G4S	15-01-2021 09:20	14	30498										
+Adgang tildelt [13]	Teknikhus Læser Sluse stuen	DigiPlex - Gæstekort 5, Gæst 5 - Jan, G4S	15-01-2021 09:29	13	30498										
+Adgang tildelt [14]	Teknikhus Læser Sluse stuen	Digiplex - Gæstekort 1, Gæst 1 - Jørn, G4S	15-01-2021 09:29	14	30498										
+Adgang tildelt [5]	Teknikhus Læser Sluse stuen	Digiplex, Sten, Jensen	15-01-2021 10:03	5	30498										
+Adgang tildelt [95]	Teknikhus Læser Sluse stuen	Securitas, Ali El Ouamrani	15-01-2021 19:14	95	30498										
+
+Samlede antal poster: 14

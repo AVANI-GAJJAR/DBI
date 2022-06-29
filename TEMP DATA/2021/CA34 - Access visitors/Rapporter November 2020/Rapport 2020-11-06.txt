@@ -1,0 +1,16 @@
+Hvad	Hvor	Hvem	Hvornår	Kortnr.	Systemkode	Systemkode
+Adgang tildelt [93]	Teknikhus Læser Sluse stuen	Securitas, ügur Øzdemir	06-11-2020 04:32	93	30498										
+Adgang tildelt [5]	Teknikhus Læser Sluse stuen	Digiplex, Sten, Jensen	06-11-2020 07:12	5	30498										
+Adgang tildelt [6]	Teknikhus Læser Sluse stuen	Digiplex, Mark, Kjeldstrøm	06-11-2020 07:23	6	30498										
+Adgang tildelt [102]	Teknikhus Læser Sluse stuen	Telia Lånekort Gul, Igor Korenev, Nokia	06-11-2020 09:06	102	30498										
+Adgang tildelt [9]	Teknikhus Læser Sluse stuen	Digiplex, Anders, Hansen	06-11-2020 09:52	9	30498										
+Adgang tildelt [14]	Teknikhus Læser Sluse stuen	Digiplex - Gæstekort 1, Gæst 1 - Carsten, Coromatic	06-11-2020 10:24	14	30498										
+Adgang tildelt [104]	Teknikhus Læser Sluse stuen	Telia Lånekort Gul, Claus Hensirksen, Claus Dalsgaard	06-11-2020 12:45	104	30498										
+Adgang tildelt [104]	Teknikhus Læser Sluse stuen	Telia Lånekort Gul, Claus Hensirksen, Claus Dalsgaard	06-11-2020 12:57	104	30498										
+Adgang tildelt [102]	Teknikhus Læser Sluse stuen	Telia Lånekort Gul, Igor Korenev, Nokia	06-11-2020 13:07	102	30498										
+Adgang tildelt [102]	Teknikhus Læser Sluse stuen	Telia Lånekort Gul, Igor Korenev, Nokia	06-11-2020 13:22	102	30498										
+Adgang tildelt [5]	Teknikhus Læser Sluse stuen	Digiplex, Sten, Jensen	06-11-2020 14:04	5	30498										
+Adgang tildelt [5]	Teknikhus Læser Sluse stuen	Digiplex, Sten, Jensen	06-11-2020 14:21	5	30498										
+Adgang tildelt [95]	Teknikhus Læser Sluse stuen	Securitas, Ali El Ouamrani	06-11-2020 19:18	95	30498										
+
+Samlede antal poster: 13

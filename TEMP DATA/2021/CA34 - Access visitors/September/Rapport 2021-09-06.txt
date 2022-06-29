@@ -1,0 +1,15 @@
+Hvad	Hvor	Hvem	Hvornår	Kortnr.	Systemkode	Systemkode
+Adgang tildelt [90]	Teknikhus Læser Sluse stuen	Securitas, Karim Ayachi	06-09-2021 05:36	90	30498										
+Adgang tildelt [9]	Teknikhus Læser Sluse stuen	Digiplex, Anders, Hansen	06-09-2021 07:24	9	30498										
+Adgang tildelt [6]	Teknikhus Læser Sluse stuen	Digiplex, Mark, Kjeldstrøm	06-09-2021 07:54	6	30498										
+Adgang tildelt [20]	Teknikhus Læser Sluse stuen	Eurest Rengøring, Suneenart	06-09-2021 10:14	20	30498										
+Adgang tildelt [9]	Teknikhus Læser Sluse stuen	Digiplex, Anders, Hansen	06-09-2021 10:54	9	30498										
+Adgang tildelt [5]	Teknikhus Læser Sluse stuen	Digiplex, Sten, Jensen	06-09-2021 11:50	5	30498										
+Adgang tildelt [5]	Teknikhus Læser Sluse stuen	Digiplex, Sten, Jensen	06-09-2021 12:19	5	30498										
+Adgang tildelt [92]	Teknikhus Læser Sluse stuen	Securitas, Neir Valjevcic	06-09-2021 15:03	92	30498										
+Adgang tildelt [92]	Teknikhus Læser Sluse stuen	Securitas, Neir Valjevcic	06-09-2021 15:03	92	30498										
+Adgang tildelt [111]	Teknikhus Læser Sluse stuen	Telia Permanent Rød, Morten, Jensen	06-09-2021 16:02	111	30498										
+Adgang tildelt [111]	Teknikhus Læser Sluse stuen	Telia Permanent Rød, Morten, Jensen	06-09-2021 16:02	111	30498										
+Adgang tildelt [96]	Teknikhus Læser Sluse stuen	Securitas 24/7 Lånekort, Vagt afløser -	06-09-2021 19:05	96	30498										
+
+Samlede antal poster: 12

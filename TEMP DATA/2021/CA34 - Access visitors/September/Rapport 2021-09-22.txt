@@ -1,0 +1,16 @@
+Hvad	Hvor	Hvem	Hvornår	Kortnr.	Systemkode	Systemkode
+Adgang tildelt [94]	Teknikhus Læser Sluse stuen	Securitas, Ruhisu Yikilmaz	22-09-2021 05:36	94	30498										
+Adgang tildelt [5]	Teknikhus Læser Sluse stuen	Digiplex, Sten, Jensen	22-09-2021 06:51	5	30498										
+Adgang tildelt [106]	Teknikhus Læser Sluse stuen	Telia Lånekort Gul, Gæst -Thorbjorn Larsson, Telia	22-09-2021 08:00	106	30498										
+Adgang tildelt [6]	Teknikhus Læser Sluse stuen	Digiplex, Mark, Kjeldstrøm	22-09-2021 08:13	6	30498										
+Adgang tildelt [20]	Teknikhus Læser Sluse stuen	Eurest Rengøring, Suneenart	22-09-2021 11:33	20	30498										
+Adgang tildelt [106]	Teknikhus Læser Sluse stuen	Telia Lånekort Gul, Gæst -Pablo Fernadez, Telia	22-09-2021 12:37	106	30498										
+Adgang tildelt [106]	Teknikhus Læser Sluse stuen	Telia Lånekort Gul, Gæst -Pablo Fernadez, Telia	22-09-2021 12:38	106	30498										
+Adgang tildelt [106]	Teknikhus Læser Sluse stuen	Telia Lånekort Gul, Gæst -Pablo Fernadez, Telia	22-09-2021 12:39	106	30498										
+Adgang tildelt [47]	Teknikhus Læser Sluse stuen	DigiPlex, Jakob Outzen, Altibox	22-09-2021 12:51	47	30498										
+Adgang tildelt [47]	Teknikhus Læser Sluse stuen	DigiPlex, Jakob Outzen, Altibox	22-09-2021 13:21	47	30498										
+Adgang tildelt [47]	Teknikhus Læser Sluse stuen	DigiPlex, Jakob Outzen, Altibox	22-09-2021 13:24	47	30498										
+Adgang tildelt [47]	Teknikhus Læser Sluse stuen	DigiPlex, Jakob Outzen, Altibox	22-09-2021 13:45	47	30498										
+Adgang tildelt [94]	Teknikhus Læser Sluse stuen	Securitas, Ruhisu Yikilmaz	22-09-2021 19:13	94	30498										
+
+Samlede antal poster: 13

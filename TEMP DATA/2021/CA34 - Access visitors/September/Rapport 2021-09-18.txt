@@ -1,0 +1,7 @@
+Hvad	Hvor	Hvem	Hvornår	Kortnr.	Systemkode	Systemkode
+Adgang tildelt [92]	Teknikhus Læser Sluse stuen	Securitas, Neir Valjevcic	18-09-2021 09:56	92	30498										
+Adgang tildelt [90]	Teknikhus Læser Sluse stuen	Securitas, Karim Ayachi	18-09-2021 19:08	90	30498										
+Adgang tildelt [90]	Teknikhus Læser Sluse stuen	Securitas, Karim Ayachi	18-09-2021 19:27	90	30498										
+Adgang tildelt [90]	Teknikhus Læser Sluse stuen	Securitas, Karim Ayachi	18-09-2021 19:27	90	30498										
+
+Samlede antal poster: 4

@@ -1,0 +1,12 @@
+Hvad	Hvor	Hvem	Hvornår	Kortnr.	Systemkode	Systemkode
+Adgang tildelt [94]	Teknikhus Læser Sluse stuen	Securitas, Ruhisu Yikilmaz	08-10-2021 05:21	94	30498										
+Adgang tildelt [5]	Teknikhus Læser Sluse stuen	Digiplex, Sten, Jensen	08-10-2021 07:09	5	30498										
+Adgang tildelt [112]	Teknikhus Læser Sluse stuen	Telia Permanent Rød, Thomas, Kjær	08-10-2021 08:00	112	30498										
+Adgang tildelt [112]	Teknikhus Læser Sluse stuen	Telia Permanent Rød, Thomas, Kjær	08-10-2021 08:01	112	30498										
+Adgang tildelt [6]	Teknikhus Læser Sluse stuen	Digiplex, Mark, Kjeldstrøm	08-10-2021 08:18	6	30498										
+Adgang tildelt [114]	Teknikhus Læser Sluse stuen	Telia Permanent Rød, Jens, Kusk	08-10-2021 11:34	114	30498										
+Adgang tildelt [122]	Teknikhus Læser Sluse stuen	Telia Permanent Rød, Hassan Bouallouch	08-10-2021 12:17	122	30498										
+Adgang tildelt [49]	Teknikhus Læser Sluse stuen	DigiPlex, Torben Klitbøl, InfraTeam	08-10-2021 14:47	49	30498										
+Adgang tildelt [95]	Teknikhus Læser Sluse stuen	Securitas, Ali El Ouamrani	08-10-2021 19:06	95	30498										
+
+Samlede antal poster: 9

@@ -1,0 +1,16 @@
+Hvad	Hvor	Hvem	Hvornår	Kortnr.	Systemkode	Systemkode
+Adgang tildelt [95]	Teknikhus Læser Sluse stuen	Securitas, Ali El Ouamrani	13-07-2021 05:29	95	30498										
+Adgang tildelt [6]	Teknikhus Læser Sluse stuen	Digiplex, Mark, Kjeldstrøm	13-07-2021 08:01	6	30498										
+Adgang tildelt [111]	Teknikhus Læser Sluse stuen	Telia Permanent Rød, Morten, Jensen	13-07-2021 08:40	111	30498										
+Adgang tildelt [111]	Teknikhus Læser Sluse stuen	Telia Permanent Rød, Morten, Jensen	13-07-2021 09:15	111	30498										
+Adgang tildelt [20]	Teknikhus Læser Sluse stuen	Eurest Rengøring, Suneenart	13-07-2021 09:33	20	30498										
+Adgang tildelt [111]	Teknikhus Læser Sluse stuen	Telia Permanent Rød, Morten, Jensen	13-07-2021 09:59	111	30498										
+Adgang tildelt [111]	Teknikhus Læser Sluse stuen	Telia Permanent Rød, Morten, Jensen	13-07-2021 13:18	111	30498										
+Adgang tildelt [6]	Teknikhus Læser Sluse stuen	Digiplex, Mark, Kjeldstrøm	13-07-2021 13:19	6	30498										
+Adgang tildelt [6]	Teknikhus Læser Sluse stuen	Digiplex, Mark, Kjeldstrøm	13-07-2021 13:19	6	30498										
+Adgang tildelt [111]	Teknikhus Læser Sluse stuen	Telia Permanent Rød, Morten, Jensen	13-07-2021 13:37	111	30498										
+Adgang tildelt [111]	Teknikhus Læser Sluse stuen	Telia Permanent Rød, Morten, Jensen	13-07-2021 13:58	111	30498										
+Adgang tildelt [6]	Teknikhus Læser Sluse stuen	Digiplex, Mark, Kjeldstrøm	13-07-2021 15:10	6	30498										
+Adgang tildelt [95]	Teknikhus Læser Sluse stuen	Securitas, Ali El Ouamrani	13-07-2021 19:06	95	30498										
+
+Samlede antal poster: 13

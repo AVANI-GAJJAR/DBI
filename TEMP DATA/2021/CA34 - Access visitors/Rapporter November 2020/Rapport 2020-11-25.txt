@@ -1,0 +1,34 @@
+Hvad	Hvor	Hvem	Hvornår	Kortnr.	Systemkode	Systemkode
+Adgang tildelt [90]	Teknikhus Læser Sluse stuen	Securitas, Karim Ayachi	25-11-2020 04:38	90	30498										
+Adgang tildelt [5]	Teknikhus Læser Sluse stuen	Digiplex, Sten, Jensen	25-11-2020 07:06	5	30498										
+Adgang tildelt [9]	Teknikhus Læser Sluse stuen	Digiplex, Anders, Hansen	25-11-2020 07:25	9	30498										
+Adgang tildelt [6]	Teknikhus Læser Sluse stuen	Digiplex, Mark, Kjeldstrøm	25-11-2020 08:07	6	30498										
+Adgang tildelt [13]	Teknikhus Læser Sluse stuen	DigiPlex - Gæstekort 5, Gæst 5 - Peter Christensen, Claus Dalsga	25-11-2020 08:23	13	30498										
+Forkert PIN [16]	Teknikhus Læser Sluse stuen	Digiplex - Gæstekort 3, Gæst 3 - Rasmus, Claus Dalsgaard	25-11-2020 09:08	16	30498										
+Adgang tildelt [5]	Teknikhus Læser Sluse stuen	Digiplex, Sten, Jensen	25-11-2020 09:23	5	30498										
+Adgang tildelt [5]	Teknikhus Læser Sluse stuen	Digiplex, Sten, Jensen	25-11-2020 09:29	5	30498										
+Adgang tildelt [102]	Teknikhus Læser Sluse stuen	Telia Lånekort Gul, Igor Korenev, Nokia	25-11-2020 09:37	102	30498										
+Adgang tildelt [102]	Teknikhus Læser Sluse stuen	Telia Lånekort Gul, Igor Korenev, Nokia	25-11-2020 09:44	102	30498										
+Adgang tildelt [91]	Teknikhus Læser Sluse stuen	Securitas, Cengiz Baysal	25-11-2020 09:56	91	30498										
+Adgang tildelt [16]	Teknikhus Læser Sluse stuen	Digiplex - Gæstekort 3, Gæst 3 - Rasmus, Claus Dalsgaard	25-11-2020 10:04	16	30498										
+Adgang tildelt [9]	Teknikhus Læser Sluse stuen	Digiplex, Anders, Hansen	25-11-2020 10:24	9	30498										
+Adgang tildelt [13]	Teknikhus Læser Sluse stuen	DigiPlex - Gæstekort 5, Gæst 5 - Peter Christensen, Claus Dalsga	25-11-2020 10:36	13	30498										
+Adgang tildelt [16]	Teknikhus Læser Sluse stuen	Digiplex - Gæstekort 3, Gæst 3 - Rasmus, Claus Dalsgaard	25-11-2020 10:37	16	30498										
+Adgang tildelt [20]	Teknikhus Læser Sluse stuen	Eurest Rengøring, Gæste, Suneenart	25-11-2020 10:45	20	30498										
+Adgang tildelt [5]	Teknikhus Læser Sluse stuen	Digiplex, Sten, Jensen	25-11-2020 10:52	5	30498										
+Adgang tildelt [13]	Teknikhus Læser Sluse stuen	DigiPlex - Gæstekort 5, Gæst 5 - Peter Christensen, Claus Dalsga	25-11-2020 11:55	13	30498										
+Adgang tildelt [5]	Teknikhus Læser Sluse stuen	Digiplex, Sten, Jensen	25-11-2020 12:03	5	30498										
+Adgang tildelt [16]	Teknikhus Læser Sluse stuen	Digiplex - Gæstekort 3, Gæst 3 - Rasmus, Claus Dalsgaard	25-11-2020 12:38	16	30498										
+Adgang tildelt [13]	Teknikhus Læser Sluse stuen	DigiPlex - Gæstekort 5, Gæst 5 - Peter Christensen, Claus Dalsga	25-11-2020 12:41	13	30498										
+Adgang tildelt [13]	Teknikhus Læser Sluse stuen	DigiPlex - Gæstekort 5, Gæst 5 - Peter Christensen, Claus Dalsga	25-11-2020 13:12	13	30498										
+Adgang tildelt [102]	Teknikhus Læser Sluse stuen	Telia Lånekort Gul, Igor Korenev, Nokia	25-11-2020 13:30	102	30498										
+Adgang tildelt [102]	Teknikhus Læser Sluse stuen	Telia Lånekort Gul, Igor Korenev, Nokia	25-11-2020 13:30	102	30498										
+Adgang tildelt [16]	Teknikhus Læser Sluse stuen	Digiplex - Gæstekort 3, Gæst 3 - Rasmus, Claus Dalsgaard	25-11-2020 14:03	16	30498										
+Forkert PIN [13]	Teknikhus Læser Sluse stuen	DigiPlex - Gæstekort 5, Gæst 5 - Peter Christensen, Claus Dalsga	25-11-2020 14:03	13	30498										
+Adgang tildelt [13]	Teknikhus Læser Sluse stuen	DigiPlex - Gæstekort 5, Gæst 5 - Peter Christensen, Claus Dalsga	25-11-2020 14:03	13	30498										
+Adgang tildelt [9]	Teknikhus Læser Sluse stuen	Digiplex, Anders, Hansen	25-11-2020 15:06	9	30498										
+Adgang tildelt [13]	Teknikhus Læser Sluse stuen	DigiPlex - Gæstekort 5, Gæst 5 - Peter Christensen, Claus Dalsga	25-11-2020 16:03	13	30498										
+Adgang tildelt [13]	Teknikhus Læser Sluse stuen	DigiPlex - Gæstekort 5, Gæst 5 - Peter Christensen, Claus Dalsga	25-11-2020 16:44	13	30498										
+Adgang tildelt [93]	Teknikhus Læser Sluse stuen	Securitas, Ügur Øzdemir	25-11-2020 18:40	93	30498										
+
+Samlede antal poster: 31
